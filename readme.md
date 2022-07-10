@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#how-to-set-up-client">How To Set Up Client</a> •
-  <a href="#how-to-set-up-nodes">How To Set Up Nodes</a> •
+<a href="#how-to-set-up">Set Up</a> •
+  <a href="#materials">Materials</a> •
   <a href="#license">License</a>
 </p>
 
@@ -32,13 +32,16 @@
 
 #### Purchasable Parts
 
-| Name                 | Price |  Qty | Link                                                                                                             |
-|----------------------|:-----:|-----:|------------------------------------------------------------------------------------------------------------------|
-| 3in Pipe             |   9   | 10ft | https://www.lowes.com/pd/Charlotte-Pipe-3-in-x-10-ft-Sch-40-Cellcore-PVC-DWV-Pipe/3133045                        |
-| 1.5in Pipe           |   0   | 10ft | https://www.lowes.com/pd/Charlotte-Pipe-1-1-2-in-x-10-ft-330-Sch-40-Solidcore-PVC-DWV-Pipe/3133037               |
-| 3in Elbow            |   0   |    2 | https://www.lowes.com/pd/PVC-3-in-x-3-in-dia-90-Degree-Elbow/5001842339                                          |
-| 3in to 1.5in Reducer |   0   |    1 | https://www.lowes.com/pd/Charlotte-Pipe-1-1-2-in-x-3-in-dia-PVC-Schedule-40-Hub-Adapter-Coupling-Fitting/3132739 |
-| Tubing               |   0   | 20ft | https://www.lowes.com/pd/smartpond-Black-Pond-Tubing/1000843632                                                  |
+| Name                 |  Price   |  Qty | Link                                                                                                             |
+|----------------------|:--------:|-----:|------------------------------------------------------------------------------------------------------------------|
+| 3in Pipe             |  $28.46  | 10ft | https://www.lowes.com/pd/Charlotte-Pipe-3-in-x-10-ft-Sch-40-Cellcore-PVC-DWV-Pipe/3133045                        |
+| 1.5in Pipe           |  $15.78  | 10ft | https://www.lowes.com/pd/Charlotte-Pipe-1-1-2-in-x-10-ft-330-Sch-40-Solidcore-PVC-DWV-Pipe/3133037               |
+| 3in Elbow            |  $4.98   |    2 | https://www.lowes.com/pd/PVC-3-in-x-3-in-dia-90-Degree-Elbow/5001842339                                          |
+| 3in to 1.5in Reducer |  $7.11   |    1 | https://www.lowes.com/pd/Charlotte-Pipe-1-1-2-in-x-3-in-dia-PVC-Schedule-40-Hub-Adapter-Coupling-Fitting/3132739 |
+| Tubing               |  $10.48  | 20ft | https://www.lowes.com/pd/smartpond-Black-Pond-Tubing/1000843632                                                  |
+> **Notice:**
+> Prices varies based on location and time of purchase. This should only be used as a broad estimate
+
 
 #### 3D Printable parts
 | Name  | Qty |        File        |                                      Image                                       |
@@ -47,6 +50,7 @@
 | Stand |  5  | Pipe Holder v8.stl | <img src="./Horizontal/parts/3d-printed/PipeHolder.png" alt="Stand" width="200"> |
 > **Notice:**
 > You do not have permission to redistribute these designs or physical parts for commercial purposes.
+
 ### Step 1: Drill Holes
 The center of the first 2in diameter hole should be 3in from the end of the pvc pipe. Each additional hole should be at least 6in center to center from the last hole.
 ![screenshot](./Horizontal/steps/step1.png)
@@ -65,3 +69,9 @@ Simply place the 3D-Printed caps into the 2in hole.
 
 ### Step 5: Expand!
 ![screenshot](./Horizontal/steps/step5.png)
+
+## License
+
+Attribution-NonCommercial-ShareAlike 4.0 International
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
