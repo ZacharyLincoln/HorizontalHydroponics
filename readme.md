@@ -75,3 +75,7 @@ Simply place the 3D-Printed caps into the 2in hole.
 Attribution-NonCommercial-ShareAlike 4.0 International
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+---
+> [zlincoln.dev](https://www.zlincoln.dev) &nbsp;&middot;&nbsp;
+> GitHub [@ZacharyLincoln](https://github.com/ZacharyLincoln)
