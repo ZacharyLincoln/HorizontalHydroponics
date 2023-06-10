@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="./Horizontal/project1-1.png" alt="Horizontal Hydroponics Logo" width="200">
+  <img id="logo" src="./Horizontal/project1-1.png" alt="Horizontal Hydroponics Logo" width="200">
   <br>
   Horizontal Hydroponics
   <br>
